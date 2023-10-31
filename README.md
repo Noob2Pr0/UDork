@@ -1,7 +1,7 @@
 # UDork
 small and simple tool for generating a list and searching for Google Dork to identify leaked files and save the scan result
-===========================================
-#Guide to using the tool
+-------------------------------
+###Guide to using the tool
 
 If you are a Windows user and want to use the executable file
 It is enough to download repository and open the **[UDork.exe]** extension file
